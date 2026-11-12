@@ -1,0 +1,8 @@
+{
+  "name": "danna",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs"
+  }
+}
